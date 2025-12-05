@@ -6,3 +6,5 @@ message = "Hello Python"
 print(message)
 message="camputer"
 print(message)
+message ="today weathear is good"
+print(message)
